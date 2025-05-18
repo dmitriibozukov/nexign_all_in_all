@@ -3,6 +3,8 @@
 
 # [Тест-план для тестирования системы тарификации](https://docs.google.com/document/d/1jI9S5phXTAnhaIBqtQijtmLmj8IBig_Es1HsV9AKkBs/edit?tab=t.0)
 
+# [ Отчет о тестировании системы тарификации](https://docs.google.com/document/d/1JkS57-5XGUrQ1RFn8vW-zl0jUhNdXGZoXGsj0D9Optk/edit?usp=sharing)
+
 # Используемые технологии
 
 - **RestAssured** — библиотека для тестирования REST API
