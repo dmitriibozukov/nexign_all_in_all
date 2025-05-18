@@ -83,7 +83,18 @@ https://colab.research.google.com/drive/1UmJfC0Hz3tqNZL5U7VpkVNwEMyx4iK_v#scroll
 ### Пример вывода
 ![image](https://github.com/user-attachments/assets/cdfb2fc0-d1f7-4edf-913e-98fa1cac070e)
 
-## 5 - Microservices API Tests (CRM, BRT, HRS, CDR)
+## 5 - Allure Report
+
+## Описание
+
+Набор автотестов с интеграцией Allure Report для следующих микросервисов:
+- CRM (создание клиента)
+- HRS (маршрутизация звонка)
+- CDR (генерация CDR-файла)
+
+
+
+## 6 - Microservices API Tests (CRM, BRT, HRS, CDR)
 
 ### Описание
 
