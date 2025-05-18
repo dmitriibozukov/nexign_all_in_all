@@ -72,8 +72,9 @@
 
 # [Тест-план для тестирования системы тарификации](https://docs.google.com/document/d/1jI9S5phXTAnhaIBqtQijtmLmj8IBig_Es1HsV9AKkBs/edit?tab=t.0)
 
-# [ Отчет о тестировании системы тарификации](https://docs.google.com/document/d/1JkS57-5XGUrQ1RFn8vW-zl0jUhNdXGZoXGsj0D9Optk/edit?usp=sharing)
+# [Отчет о тестировании системы тарификации](https://docs.google.com/document/d/1JkS57-5XGUrQ1RFn8vW-zl0jUhNdXGZoXGsj0D9Optk/edit?usp=sharing)
 
+# [Логическая карта проекта](https://docs.google.com/document/d/1qnSmwOUEQ-cHlkHqSs3YsjsOM4IbbJZFxfZu8zJENlk/edit?usp=sharing)
 
 # Описание автотестов из тест-плана
 
