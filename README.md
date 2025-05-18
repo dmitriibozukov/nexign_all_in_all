@@ -2,40 +2,71 @@
 ![Screenshot_1](https://github.com/user-attachments/assets/e1d95ad5-aa40-4251-93bb-e0129630c2a4)
 
 ## Структура репозитория
+<details>
 
-📁 autotests_v1-main
-    📁 1
-        📄 BrtApiTest.java
-        📄 CdrApiTest.java
-        📄 CrmApiTest.java
-        📄 HrsApiTest.java
-        📄 pom.xml
-        📄 run
-    📁 2
-        📁 cdr
-            📄 CdrAuthTest.java
-            📄 CdrTestUtils.java
-        📁 resources
-            📄 application-test.yml.yaml
-            📄 test-cdr-invalid.csv
-            📄 test-cdr-valid.csv
-        📄 run
-    📁 3
-        📄 ClassicTariffTest.java
-        📄 MonthlyTariffTest.java
-        📄 TariffTestBase.java
-        📄 application-test.yml.yaml
-        📄 pom.xml
-        📄 run
-    📁 4
-        📄 4.ipynb
-        📄 4.py
-        📄 link.txt
+```
+📁 nexign_all_in_all-main
     📄 README.md
-    📁 postman
-        📄 microservices_api_tests.postman_collection.json
-    📁 allure-main
-        📄 microservices_api_tests.postman_collection.json
+    📁 autotests_v1-main
+        📁 1
+            📄 BrtApiTest.java
+            📄 CdrApiTest.java
+            📄 CrmApiTest.java
+            📄 HrsApiTest.java
+            📄 pom.xml
+            📄 run
+        📁 2
+            📁 cdr
+                📄 CdrAuthTest.java
+                📄 CdrTestUtils.java
+            📁 resources
+                📄 application-test.yml.yaml
+                📄 test-cdr-invalid.csv
+                📄 test-cdr-valid.csv
+            📄 run
+        📁 3
+            📄 ClassicTariffTest.java
+            📄 MonthlyTariffTest.java
+            📄 TariffTestBase.java
+            📄 application-test.yml.yaml
+            📄 pom.xml
+            📄 run
+        📁 4
+            📄 4.ipynb
+            📄 4.py
+            📄 link.txt
+        📄 README.md
+        📁 allure-main
+            📄 pom.xml
+            📁 src
+                📁 test
+                    📁 java
+                        📄 ApiTestBase.java
+                        📁 cdr
+                            📄 CdrApiTest.java
+                        📁 crm
+                            📄 CrmApiTest.java
+                        📁 hrs
+                            📄 HrsApiTest.java
+        📁 postman
+            📄 microservices_api_tests.postman_collection.json
+    📁 autotests_v2-main
+        📄 README.md
+        📁 brt
+            📄 BrtApiTest.java
+            📄 BrtController.java
+        📁 cdr
+            📄 CdrApiTest.java
+            📄 CdrController.java
+        📁 crm
+            📄 CrmApiTest.java
+            📄 CrmController.java
+        📁 hrs
+            📄 HrsApiTest.java
+            📄 HrsController.java
+```
+
+</details>
 
 # [Тест-план для тестирования системы тарификации](https://docs.google.com/document/d/1jI9S5phXTAnhaIBqtQijtmLmj8IBig_Es1HsV9AKkBs/edit?tab=t.0)
 
