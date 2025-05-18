@@ -2,6 +2,41 @@
 ![Screenshot_1](https://github.com/user-attachments/assets/e1d95ad5-aa40-4251-93bb-e0129630c2a4)
 
 ## Структура репозитория
+
+📁 autotests_v1-main
+    📁 1
+        📄 BrtApiTest.java
+        📄 CdrApiTest.java
+        📄 CrmApiTest.java
+        📄 HrsApiTest.java
+        📄 pom.xml
+        📄 run
+    📁 2
+        📁 cdr
+            📄 CdrAuthTest.java
+            📄 CdrTestUtils.java
+        📁 resources
+            📄 application-test.yml.yaml
+            📄 test-cdr-invalid.csv
+            📄 test-cdr-valid.csv
+        📄 run
+    📁 3
+        📄 ClassicTariffTest.java
+        📄 MonthlyTariffTest.java
+        📄 TariffTestBase.java
+        📄 application-test.yml.yaml
+        📄 pom.xml
+        📄 run
+    📁 4
+        📄 4.ipynb
+        📄 4.py
+        📄 link.txt
+    📄 README.md
+    📁 postman
+        📄 microservices_api_tests.postman_collection.json
+    📁 allure-main
+        📄 microservices_api_tests.postman_collection.json
+
 # [Тест-план для тестирования системы тарификации](https://docs.google.com/document/d/1jI9S5phXTAnhaIBqtQijtmLmj8IBig_Es1HsV9AKkBs/edit?tab=t.0)
 
 # [ Отчет о тестировании системы тарификации](https://docs.google.com/document/d/1JkS57-5XGUrQ1RFn8vW-zl0jUhNdXGZoXGsj0D9Optk/edit?usp=sharing)
